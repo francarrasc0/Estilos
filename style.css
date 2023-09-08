@@ -1,0 +1,22 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    color: white;
+    background-color: black;
+}
+span{
+    color: aqua;
+}
+h2 {
+    color: white;
+    background-color: blueviolet;
+    font-style: italic;
+    text-align: center;
+}
+h3 {
+    color:#000066;
+    background-color:#5DADE2;
+    text-align: end;
+    text-decoration: underline;
+}
